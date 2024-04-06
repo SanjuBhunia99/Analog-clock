@@ -1,2 +1,1 @@
-# Analog-clock
-HTML CSS Java Script
+# Analog-clock using for HTML,CSS and JavaScript
